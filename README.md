@@ -13,7 +13,7 @@ This repository is a central hub for:
 
 ## 🎯 Current Goals
 
-- Preparing for **AWS Cloud Practitioner** exams (scheduled for May 2025) and for **AWS SysOps Administrator** (estimated for June 2025)
+- Preparing for **AWS Cloud Practitioner** exams (already scheduled for May 2025) and for **AWS SysOps Administrator** (estimated for Q3 2025)
 - Expanding my use of **infrastructure as code**
 - Refining my homelab and automation toolset
 
