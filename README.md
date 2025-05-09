@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, folks!
+I'm Igor Staszak - a DevOps Engineer that focuses also on the system adminstration.
 
-<!--
-**Igor-Staszak/Igor-Staszak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my personal GitHub! I have a strong passion for automation, infrastructure as code, and building reliable systems.
+From time to time I try to anonymize data on my private repos to be able to share them.
 
-Here are some ideas to get you started:
+## 📁 What You'll Find Here
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This repository is a central hub for:
+- My personal projects and infrastructure experiments
+- Scripts, templates, and configs I've found useful over the years
+- Notes, documentation, and sometimes work-in-progress code
+
+## 🎯 Current Goals
+
+- Preparing for **AWS Cloud Practitioner** exams (scheduled for May 2025) and for **AWS SysOps Administrator** (estimated for June 2025)
+- Expanding my use of **infrastructure as code**
+- Refining my homelab and automation toolset
+
+Thanks for stopping by!
