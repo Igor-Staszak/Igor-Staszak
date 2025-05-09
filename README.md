@@ -2,7 +2,7 @@
 I'm Igor Staszak - a DevOps Engineer that focuses also on the system adminstration.
 
 Welcome to my personal GitHub! I have a strong passion for automation, infrastructure as code, and building reliable systems.
-From time to time I try to anonymize data on my private repos to be able to share them.
+From time to time. I try to anonymize data from my private repositories and share them with you so can reuse them or get a sneak peek at how I work.
 
 ## 📁 What You'll Find Here
 
