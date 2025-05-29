@@ -15,6 +15,7 @@ This repository is a central hub for:
 
 - ~~Preparing for **AWS Cloud Practitioner** exam (scheduled for May 2025)~~ - successfully passed!
 - Preparing for **AWS SysOps Administrator** (estimated for Q3 2025)
+- Preparing for **Certified Kubernetes Administrator (CKA)** (Q3/Q4 2025)
 - Expanding my use of **infrastructure as code**
 - Refining my homelab and automation toolset
 
